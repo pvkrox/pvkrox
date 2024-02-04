@@ -1,1 +1,1 @@
-print("Initializing src package")
+print("Initializing pipeline package")
